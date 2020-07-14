@@ -1,0 +1,18 @@
+body {
+    background-color: lightgrey;
+    margin: 100px;
+    font: arial, helvetica, sans-serif;
+}
+form{
+    
+    padding-left: 400px;
+    border: 1px solid black;
+    border-radius: 1%;
+}
+
+h1 {
+    padding: 20px;
+}
+ div {
+     margin-bottom: 1%;
+ }
